@@ -1,0 +1,1 @@
+[Sat Aug 17 16:35:23.835547 2024] [core:error] [pid 24956] [client 52.81.208.25:55100] AH00126: Invalid URI in request GET /../themes/pubsub/favicon/index.svg HTTP/1.1
