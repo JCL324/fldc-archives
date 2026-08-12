@@ -5,7 +5,7 @@
 Using:
 
 ```
-httrack https://fldrupal.camp -O . -N "%h%p/%n/index%[page].%t" -WqQ%v --robots=0
+httrack https://www.fldrupal.camp -O . -N "%h%p/%n/index%[page].%t" -WqQ%v --robots=0
 ```
 
 Hosted by CND on Linode.
